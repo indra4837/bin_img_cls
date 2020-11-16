@@ -1,0 +1,7 @@
+Total:
+- faulty: 600
+- not faulty: 600
+
+Train (80%)
+Val (10%)
+Test (10%)
